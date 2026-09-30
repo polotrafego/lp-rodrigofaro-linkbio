@@ -12,5 +12,6 @@ node_modules/
 .vercel/
 
 # Materiais-fonte pesados (fotos originais e PDF) - nao versionar
-Assets/
+/Assets/Fotos/
+/Assets/*.pdf
 .claude/
