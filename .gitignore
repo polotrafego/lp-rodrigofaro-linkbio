@@ -1,0 +1,16 @@
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+
+# Dependências / build (não usados neste site estático, mas por segurança)
+node_modules/
+.vercel/
+
+# Materiais-fonte pesados (fotos originais e PDF) - nao versionar
+Assets/
+.claude/
