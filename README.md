@@ -8,7 +8,7 @@ index.html      # hero + formulário leadlovers
 obrigado.html   # confirmação + botão WhatsApp
 css/styles.css  # identidade visual + override do form001
 js/main.js      # reveal on scroll
-assets/img/     # fotos e logo Polo
+img/            # fotos e logo Polo
 vercel.json     # deploy estático (cleanUrls)
 ```
 
